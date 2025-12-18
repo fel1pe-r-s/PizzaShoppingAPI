@@ -43,5 +43,17 @@
     "nodemailer": "^6.9.13",
     "postgres": "^3.4.4",
     "zod": "^3.22.4"
-  }
+  },
+  "description": "To install dependencies:",
+  "keywords": [
+    "bun",
+    "dayjs",
+    "docker",
+    "markdown",
+    "node",
+    "postgresql",
+    "saas",
+    "typescript",
+    "zod"
+  ]
 }
