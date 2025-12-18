@@ -1,4 +1,6 @@
-# workspace
+**Tags**: #Bun #Docker #Markdown #Node #Postgresql #SaaS #TypeScript #Zod #dayjs
+
+#PizzaShoppingAPI # workspace
 
 To install dependencies:
 
