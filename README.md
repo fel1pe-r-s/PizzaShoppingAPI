@@ -1,4 +1,4 @@
-**Tags**: #Bun #Docker #Markdown #Node #Postgresql #SaaS #TypeScript #Zod #dayjs
+**Tags**: #Bun #Database #Docker #Markdown #Node #Postgresql #SaaS #TypeScript #Zod #dayjs
 
 #PizzaShoppingAPI # workspace
 
